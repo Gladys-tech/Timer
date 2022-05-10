@@ -22,7 +22,7 @@ import React from 'react';
     }
     render(){
         return(
-             <h1>{this.state.minute}:{this.state.second}</h1>
+            <h1>{this.state.minute}:{this.state.second}</h1>
             
         );
     }
